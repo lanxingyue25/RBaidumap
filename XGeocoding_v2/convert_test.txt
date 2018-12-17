@@ -1,0 +1,2 @@
+﻿http://apis.gpsspg.com/__app/convert/?key=0X0&pid=1&from=3&to=2&point=35.937102,116.470304;35.2782,115.37234;33.856426,113.619987;36.941853,118.244529;36.649624,117.952993
+<status>110</status><result></result>
